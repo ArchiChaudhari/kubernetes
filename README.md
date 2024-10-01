@@ -10,7 +10,7 @@ Why to use kubernrtes?
 - Backups and restores.
 
 Architecture of kubernetes
-https://github.com/user-attachments/assets/0d3480fc-8135-4736-a1c1-698f7b4580a1
+file:///home/archic/Pictures/Screenshots/Screenshot%20from%202024-10-01%2011-51-31.png
 
 
 
