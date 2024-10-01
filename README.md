@@ -42,7 +42,7 @@ API Server
 Controller Manager
 Scheduler
 ETCD
-
+![Screenshot from 2024-10-01 12-31-26](https://github.com/user-attachments/assets/fe92e8e6-4e77-4ec6-b677-ba6d5daf30c2)
 
 
 
