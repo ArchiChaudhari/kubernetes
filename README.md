@@ -10,6 +10,7 @@ Why to use kubernrtes?
 - Backups and restores.
 
 Architecture of kubernetes
+
 ![Screenshot from 2024-10-01 11-51-31](https://github.com/user-attachments/assets/a1e2c439-c5da-4dce-8aeb-a843d0361926)
 
 API server manages Worker nodes with the help of kubectl on master node
@@ -42,6 +43,7 @@ API Server
 Controller Manager
 Scheduler
 ETCD
+
 ![Screenshot from 2024-10-01 12-31-26](https://github.com/user-attachments/assets/fe92e8e6-4e77-4ec6-b677-ba6d5daf30c2)
 
 
