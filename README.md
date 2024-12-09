@@ -73,7 +73,7 @@ setup API server, kubelet & other
 Create other cloud provider resources (eg. load balancer, filesystem)
 
 ----------------------------------------------------------------------------
-Use docker to create images for creatig containers, and kubernetes will manage containers.
+Use docker to create images for creatig containers, and kubernetes will manage containers
 
 
 
